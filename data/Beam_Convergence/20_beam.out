@@ -1,5 +1,5 @@
 TITLE : Convergence study for beam element.Mesh: 20
-        (17:22:29 on June 8, 2024, Saturday)
+        (14:30:44 on June 9, 2024, Sunday)
 
 C O N T R O L   I N F O R M A T I O N
 
@@ -376,9 +376,9 @@ C O N T R O L   I N F O R M A T I O N
 
  S O L U T I O N   T I M E   L O G   I N   S E C 
 
-     TIME FOR INPUT PHASE = 3.68400e-03
-     TIME FOR CALCULATION OF STIFFNESS MATRIX = 1.01420e-02
-     TIME FOR FACTORIZATION AND LOAD CASE SOLUTIONS = 2.06600e-03
+     TIME FOR INPUT PHASE = 2.19600e-03
+     TIME FOR CALCULATION OF STIFFNESS MATRIX = 9.68800e-03
+     TIME FOR FACTORIZATION AND LOAD CASE SOLUTIONS = 2.14200e-03
 
-     T O T A L   S O L U T I O N   T I M E = 1.58920e-02
+     T O T A L   S O L U T I O N   T I M E = 1.40260e-02
 

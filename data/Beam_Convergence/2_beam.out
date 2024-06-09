@@ -1,5 +1,5 @@
 TITLE : Convergence study for beam element.Mesh: 2
-        (17:22:45 on June 8, 2024, Saturday)
+        (14:30:31 on June 9, 2024, Sunday)
 
 C O N T R O L   I N F O R M A T I O N
 
@@ -125,14 +125,14 @@ C O N T R O L   I N F O R M A T I O N
   ELEMENT             STRESS             TORSION             MOMENT_Y_1             MOMENT_Y_2             MOMENT_Z_1             MOMENT_Z_2             SHEAR_Y             SHEAR_Z
   NUMBER
     1           0.00000e+00           0.00000e+00           0.00000e+00           0.00000e+00          -4.00420e+02          -1.83913e+02          -7.50000e+01           0.00000e+00
-    2           0.00000e+00           0.00000e+00           0.00000e+00           0.00000e+00          -7.82511e+01          -6.08227e+00          -2.50000e+01           0.00000e+00
+    2           0.00000e+00           0.00000e+00           0.00000e+00           0.00000e+00          -7.82511e+01          -6.08228e+00          -2.50000e+01           0.00000e+00
 
 
  S O L U T I O N   T I M E   L O G   I N   S E C 
 
-     TIME FOR INPUT PHASE = 2.44100e-03
-     TIME FOR CALCULATION OF STIFFNESS MATRIX = 1.06700e-03
-     TIME FOR FACTORIZATION AND LOAD CASE SOLUTIONS = 2.54000e-04
+     TIME FOR INPUT PHASE = 1.98600e-03
+     TIME FOR CALCULATION OF STIFFNESS MATRIX = 1.32500e-03
+     TIME FOR FACTORIZATION AND LOAD CASE SOLUTIONS = 3.73000e-04
 
-     T O T A L   S O L U T I O N   T I M E = 3.76200e-03
+     T O T A L   S O L U T I O N   T I M E = 3.68400e-03
 

@@ -202,7 +202,7 @@ mesh_densities = {
 }
 
 
-'''
+
 # Plot deflection (v) for different mesh densities  
 plt.figure(figsize=(12, 8))
 
@@ -293,25 +293,3 @@ plt.title('SHEAR_Y for Different Mesh Densities')
 plt.legend()
 plt.grid(True)
 plt.show()
-'''
-
-'''TO BE FIXED
-
-# Calculate L2 error of deflection (v) for different mesh densities
-def calculate_deflection_error(data, mesh_densities):
-    # Calculate exact solution
-    L2_error = np.zeros(len(mesh_densities))
-    i = 0
-    for key, density in mesh_densities.items():
-        data = all_data[key]
-        num_nodes = len(data['v'])
-
-        # Calculate exact solution
-        v_exact_values = exact_deflection(x_coords)
-        L2_error[i] = np.sqrt(np.sum((data['v'] - v_exact_values)**2))
-        i = i+1
-    return L2_error
-
-deflection_error = calculate_deflection_error(all_data, mesh_densities)
-print(deflection_error)
-'''
